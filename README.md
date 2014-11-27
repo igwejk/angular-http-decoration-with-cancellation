@@ -20,9 +20,7 @@ There are several ways to do this I suppose. One way could be to simply wrap the
 #### The $http [Decorator](https://docs.angularjs.org/api/auto/service/$provide#decorator) Implementation
 This is done in the [configuration block](https://docs.angularjs.org/guide/module#configuration-blocks) of your application, as demonstrated below:
 
-```
 <script src="https://gist.github.com/igwejk/0d03b23cb6238ad08456.js"></script>
-```
 
 ### Authors and Contributors
 My name is Igwe Kalu (@igwejk), I am a full-stack developer and I live in Istanbul. I share my experience by this means and you are welcome to use the code snippets or full source code you found here as you will. If you have any comments about the methodology I used or you want to share a different perspective, feel free to message me about it. In the interest of learning and improvement, you are welcome to send me a pull request if there additional points you would like to see in this post.
